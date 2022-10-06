@@ -11,7 +11,7 @@ p{
     background-size : cover;
     background-repeat : no-repeat;
     background-position : center;
-    background : url(img/animation.jpg) no-repeat center/cover;
+    background : url(animation.jpg) no-repeat center/cover;
     background-attachment : fixed;
     -webkit-background-clip : text;
     -webkit-text-fill-color : rgb(255,255,255,0);
